@@ -19,6 +19,12 @@ const videos = [
     title: 'Humnava ~acoustic version ',
     releaseDate: '2024-03-15'
     
+  },
+  {
+    id: 'YOsaL6QnMTQ',
+    title: 'Zara Si Dil Mein ',
+    releaseDate: '2025-05-25'
+    
   }
   
 ];
